@@ -90,4 +90,5 @@ Et comment éviter de multiplier la production et la consommation de nouveaux mo
 
 ## 6. Notre mentor
 
-**Thibault leygnac Web Designer/Da freelance.Rencontrez sur la ville de Rennes.Il va nous permettre d'organiser nos semaines,d'énormes conseils sur le parcours utilisateur,le design et la charte graphique de notre site **
+**Thibault leygnac Web Designer/Da freelance**
+Rencontrez sur la ville de Rennes.Il va nous permettre d'organiser nos semaines,d'énormes conseils sur le parcours utilisateur,le design et la charte graphique de notre site.
