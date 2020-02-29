@@ -44,15 +44,19 @@ Et comment éviter de multiplier la production et la consommation de nouveaux mo
 *Et d’autres en fonctions des options disponibles à la sortie de l’appli*
 
 ### 3.2. Front
-Quels sont les composants dont vous aurez besoin ? Aurez-vous besoin d'un peu de front dynamique avec JavaScript pour la faire fonctionner ? 
--Une page d'acceuil avec rechercher une location ou proposer
--une page profil utilisateurs (identité,location,vélo,etc...)
--Parcours de locations(recherche->inscription->paiements)
--Page de connexion/ page d'inscription
--page contact 
--page about us 
--#MobileFirst
--Utilisation de Bootstrap.
+
+* #MobileFirst
+* Utilisation de Bootstrap.
+* kit UI/UX
+
+* navbar 
+* molécule de recherche
+* organisme d’inscription
+* organisme de souscription 
+* organisme de paiements
+* etc...
+
+*Pleins d’autres choses qui viendront à la conception de la charte graphique et de la maquette plus précise du site*
 
 
 ### 3.3. Backend
