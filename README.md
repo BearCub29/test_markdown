@@ -70,9 +70,10 @@ Et comment éviter de multiplier la production et la consommation de nouveaux mo
 *Pleins d’autres choses qui viendront à la conception de la charte graphique et de la maquette plus précise du site*
 
 ### 3.4. Mes besoins techniques
-[@BearCub29] fffbe gg
 
-- De bonnes bases en back et de la créativité pour le front sachant que notre mentor est Web Designer/DA et que nous avons une bonne compréhension du back et des skills en front.
+**Husain et moi nous avons actuellement de bonnes bases sur tout ce qui y a était vu durant la formation : Ruby,ROR,HTML,…**
+
+**Nous avons bosser durant toute la formation pour progresser et s’éclater avec ces langages nous sommes donc en recherches de partenaires dans le même état d’esprit que nous et qui veulent contribuer à un super projet !!! :smile: :muscle:**
 
 ## 4. La version minimaliste mais fonctionnelle qu'il faut avoir livré la première semaine
 Nous allons vous demander de livrer une version minimaliste mais fonctionnelle à la fin de la première semaine. Décris ce que vous voulez avoir fait à la fin de la première semaine. Pense minimaliste, fonctionnel, efficace. Comment avec le moins de code possible vous arrivez à donner une version fonctionnelle de l'application. 
