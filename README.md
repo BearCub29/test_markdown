@@ -12,26 +12,16 @@ Et comment éviter de multiplier la production et la consommation de nouveaux mo
 
 ## 2. Parcours utilisateur
 
-Décris le parcours utilisateur de ton application. En terme de produit à quoi elle ressemblera. 
-
-Parcours simple d'utilisation .
-
-L'utilisateur peut soit proposer son vélo à la location soit louer un vélo proposé.
-
-L'utilisateur doit créer un compte utilisateur pour louer ou proposer un vélo.
-
-L'utilisateur qui loue doit rentrer les informations classique d'identité(nom,prénom,...),des infos de sécurité obligatoire (mail,password,téléphone),télécharger sa pièce d'identité,numero de serie du vélo.
-
-L'utilisateur qui loue un vélo doit rentrer les informations classique d'identité(nom,prénom,...),des infos de sécurité obligatoire (mail,password,téléphone),télécharger sa pièce d'identité.
-
-On peut consulter les offres sans compte utilisateurs.
-
-Possibilités de soucription rapide d'assurance chez JeanHuss Assurance.
-
-L'utilisateurs voit ses locations proposés ou prises.
-
-
- :biking_woman:
+* Parcours simple d'utilisation .
+	*L'utilisateur peut soit proposer son vélo à la location, soit louer un vélo proposé.
+ *L'utilisateur doit créer un compte utilisateur pour louer ou proposer un 	vélo.
+	*L'utilisateur qui loue doit rentrer les informations classiques d'identité(nom, prénom....),des infos de sécurité obligatoire (mail, password, téléphone), télécharger sa pièce d'identité, numéro de série du vélo.
+	*L'utilisateur qui loue un vélo doit rentrer les informations classiques d'identités(nom, prénom.....),des infos de sécurités obligatoires (mail, password, téléphone), télécharger sa pièce d'identité.	
+ *On peut consulter les offres sans compte utilisateur.	
+ *Possibilités de souscription rapide d'assurance chez JeanHuss Assurance.	
+ *L’utilisateur voit ses locations proposées ou prises.
+ *Les utilisateurs peuvent communiquer entre eux par messages privés.
+ *Les utilisateurs peuvent noter les autres utilisateurs.
 
 ## 3. Concrètement et techniquement
 
