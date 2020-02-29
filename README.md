@@ -35,11 +35,13 @@ Et comment éviter de multiplier la production et la consommation de nouveaux mo
 ## 3. Concrètement et techniquement :nerd_face:
 
 ### 3.1. Base de données
-Comment tu vois la base de données de l'application ?
-User
-Rent 
-Bike
-City(?)
+
+*User : Une base de donnée utilisateur contenant tous les profils disponibles sur l'appli.
+*Rent : Une base de donnée contenant les différentes locations.
+*Bike : Les vélos disponibles sur le site.
+*City : Les différentes villes ou sont disponibles les vélos et utilisateurs (Uniquement Rennes pour le départ de l’appli).
+
+*Et d’autres en fonctions des options disponibles à la sortie de l’appli*
 
 ### 3.2. Front
 Quels sont les composants dont vous aurez besoin ? Aurez-vous besoin d'un peu de front dynamique avec JavaScript pour la faire fonctionner ? 
