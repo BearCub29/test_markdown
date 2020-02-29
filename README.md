@@ -60,12 +60,18 @@ Et comment éviter de multiplier la production et la consommation de nouveaux mo
 
 
 ### 3.3. Backend
-De quoi avez-vous besoin pour le backend ? Quelles sont les APIs en back que vous allez brancher et utiliser ?
--Ruby, Ruby on Rails,gem Device,gem Stripe
-Et d'autres pas encore définis 
+
+* Ruby
+* Ruby on Rails
+* Mailers
+* gem Device pour la sécurité client et la registration.
+* gem Stripe pour les paiements.
+
+*Pleins d’autres choses qui viendront à la conception de la charte graphique et de la maquette plus précise du site*
 
 ### 3.4. Mes besoins techniques
-Balance ici tes compétences, puis tes besoins pour les 3-4 personnes restantes.
+[x] @BearCub29
+
 - De bonnes bases en back et de la créativité pour le front sachant que notre mentor est Web Designer/DA et que nous avons une bonne compréhension du back et des skills en front.
 
 ## 4. La version minimaliste mais fonctionnelle qu'il faut avoir livré la première semaine
