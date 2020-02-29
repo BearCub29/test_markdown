@@ -1,6 +1,6 @@
 # :biking_man:  BlaBlaBike (nom pas encore défini ) : Location de vélo entre particuliers  :biking_woman:
 
-## 1. Présentation
+## 1. Présentation :film_projector:
 
 À notre époque, l’environnement est devenu un des sujets cruciaux de débats dans notre société. 
 En effet, les conséquences de notre activité sur la vie de la planète sont de plus en plus désastreuses et en particulier d’un point de vue de la  surconsommation et de la quantité d’émission de CO2 . 
@@ -10,7 +10,7 @@ Et comment éviter de multiplier la production et la consommation de nouveaux mo
 ### C'est ici que :biking_man: BlaBlaBike :biking_woman: intervient en proposant à toute personne possédante déjà un vélo mais ne l'utilisant pas h 24 de louer à d'autres personnes pour un petit prix.
 ### Résultat : moins de CO2 :no_entry_sign: , moins de consommation :recycle: = une planète plus propre !!!:earth_americas:
 
-## 2. Parcours utilisateur
+## 2. Parcours utilisateur :raising_hand:
 
 * Parcours simple d'utilisation . 
 
@@ -32,7 +32,7 @@ Et comment éviter de multiplier la production et la consommation de nouveaux mo
 
   * Les utilisateurs peuvent noter les autres utilisateurs.
 
-## 3. Concrètement et techniquement
+## 3. Concrètement et techniquement :nerd_face:
 
 ### 3.1. Base de données
 Comment tu vois la base de données de l'application ?
