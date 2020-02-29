@@ -76,23 +76,18 @@ Et comment éviter de multiplier la production et la consommation de nouveaux mo
 **Nous avons bosser durant toute la formation pour progresser et s’éclater avec ces langages nous sommes donc en recherches de partenaires dans le même état d’esprit que nous et qui veulent contribuer à un super projet !!! :smile: :muscle:**
 
 ## 4. La version minimaliste mais fonctionnelle qu'il faut avoir livré la première semaine
-Nous allons vous demander de livrer une version minimaliste mais fonctionnelle à la fin de la première semaine. Décris ce que vous voulez avoir fait à la fin de la première semaine. Pense minimaliste, fonctionnel, efficace. Comment avec le moins de code possible vous arrivez à donner une version fonctionnelle de l'application. 
 
-UI kit / front minimum 
-Création de compte
-Chercher des Location
-Création de location
-Devise installé avec les mails de confirmation d’inscription etc
-Paiements en place 
-
-
+* UI kit / front minimum 
+* Création de compte/location possible
+* Chercher des Location possible
+* Devise installé avec la partie mailer en place 
+* Paiements en place 
 
 ## 5. La version que l'on présentera aux jury
-La deuxième semaine vous allez ajouter des fonctionnalités pour améliorer l'expérience utilisateurs de votre application. Quelles fonctionnalités tu aimerais bien ajouter ?
 
-Front finaliser et app fonctionnelle et responsive.
+* Front finaliser et app fonctionnelle et responsive.
 
 
 ## 6. Notre mentor
-Qui est ton mentor ?
-Thibault leygnac Web Designer/Da freelance.
+
+**Thibault leygnac Web Designer/Da freelance.Rencontrez sur la ville de Rennes.Il va nous permettre d'organiser nos semaines,d'énormes conseils sur le parcours utilisateur,le design et la charte graphique de notre site **
