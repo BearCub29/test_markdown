@@ -2,13 +2,13 @@
 
 ## 1. Présentation
 
-	 À notre époque, l’environnement est devenu un des sujets cruciaux de débats dans notre société. 
+À notre époque, l’environnement est devenu un des sujets cruciaux de débats dans notre société. 
 En effet, les conséquences de notre activité sur la vie de la planète sont de plus en plus désastreuses et en particulier d’un point de vue de la  surconsommation et de la quantité d’émission de CO2 . 
 De ce constat, deux questions nous sont venus : Comment contribuer à la réduction d’émission de CO2 par nos transport au quotidien ?
 Et comment éviter de multiplier la production et la consommation de nouveaux moyens de transport ?
 
-	 C'est ici que :biking_man: BlaBlaBike :biking_woman: intervient en proposant à toute personne possédante déjà un vélo mais ne l'utilisant pas h 24 de louer à d'autres personnes pour un petit prix.
-Résultat : moins de CO2 :no_entry_sign: , moins de consommation :recycle: = une planète plus propre !!!:earth_americas:
+### C'est ici que :biking_man: BlaBlaBike :biking_woman: intervient en proposant à toute personne possédante déjà un vélo mais ne l'utilisant pas h 24 de louer à d'autres personnes pour un petit prix.
+### Résultat : moins de CO2 :no_entry_sign: , moins de consommation :recycle: = une planète plus propre !!!:earth_americas:
 
 ## 2. Parcours utilisateur
 
