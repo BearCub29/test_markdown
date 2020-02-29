@@ -70,7 +70,7 @@ Et comment éviter de multiplier la production et la consommation de nouveaux mo
 *Pleins d’autres choses qui viendront à la conception de la charte graphique et de la maquette plus précise du site*
 
 ### 3.4. Mes besoins techniques
-[@BearCub29]
+[@BearCub29] fffbe gg
 
 - De bonnes bases en back et de la créativité pour le front sachant que notre mentor est Web Designer/DA et que nous avons une bonne compréhension du back et des skills en front.
 
