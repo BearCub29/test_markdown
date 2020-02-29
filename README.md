@@ -1,4 +1,4 @@
-# BlaBlaBike (nom pas encore défini ) : Location de vélo entre particuliers 
+# :biking_man:  BlaBlaBike (nom pas encore défini ) : Location de vélo entre particuliers  :biking_woman:
 
 ## 1. Présentation
 Présente en un ou deux paragraphes ton application. Commence par le besoin : à quel besoin réponds-tu ? 
@@ -28,7 +28,7 @@ Possibilités de soucription rapide d'assurance chez JeanHuss Assurance.
 L'utilisateurs voit ses locations proposés ou prises.
 
 
-:biking_man: :biking_woman:
+ :biking_woman:
 
 ## 3. Concrètement et techniquement
 
